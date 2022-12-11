@@ -2,6 +2,14 @@ package arrayOperation;
 
 import java.util.Scanner;
 
+/*
+			1.Union
+			2.Intersection
+			3.A-B
+			4.B-A
+			5.Union All
+*/
+
 public class Array2 {
 	
 	
