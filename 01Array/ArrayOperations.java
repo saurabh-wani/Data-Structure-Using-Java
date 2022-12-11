@@ -2,6 +2,19 @@ package arrayOperation;
 
 import java.util.Scanner;
 
+/*
+			1.Check if Array IsSorted
+			2.Find Max
+			3.Find Secound Max
+			4.Find Difference Max-Min
+			5.Reverse Array
+			6.rotateLeft
+			7.rotateRight
+			8.Find Element's positions in Array:
+			9.Count of Elements
+			10.enter element to search
+*/
+
 public class Array1D 
 {
 	public static void display(int []a)
